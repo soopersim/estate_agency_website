@@ -1,0 +1,16 @@
+h1 {
+  font-weight:150;
+  text-align:left;
+  font-size:30px;
+}
+
+body {
+  font:sans-serif;
+  color: black;
+  margin: 100px;
+}
+
+nav{
+  display: inline;
+  font-size: 20px;
+}
